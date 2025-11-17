@@ -1,0 +1,339 @@
+[{
+  "_id": {
+    "$oid": "68cbc9eb44229e334750eb67"
+  },
+  "address": {
+    "Carnival_address": "103-05",
+    "coord": [
+      -73.8642349,
+      40.75356
+    ],
+    "street": "37 Avenue",
+    "zipcode": "11368"
+  },
+  "Carnival": "Queens Fair",
+  "Occasion": "Rides",
+  "Ride": [
+    {
+      "Ride": "Roller_Coaster",
+      "score": 10
+    },
+    {
+      "Ride": "Snake_Slide",
+      "score": 5
+    },
+    {
+      "Ride": "Purple_Tornado",
+      "score": 12
+    },
+    {
+      "Ride": "GLobal_SI-Saw",
+      "score": 10
+    },
+    {
+      "Ride": "Cruise_Battle",
+      "score": 0
+    },
+    {
+      "Ride": "Cave_Abomination",
+      "score": 13
+    },
+    {
+      "Ride": "Break_Dance",
+      "score": 12
+    },
+    {
+      "Ride": "Cart_race",
+      "score": 11
+    }
+  ],
+  "Name": "Stuart Family",
+  "Family_id": "40362432",
+  "Family_Members": 10,
+  "Time_Entry": {
+    "$date": "2025-09-18T11:45:00.000Z"
+  },
+  "Time_Exit": {
+    "$date": "2025-09-18T16:45:00.000Z"
+  },
+  "Meals": [
+    "Breakfast",
+    "Lunch"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68cbcb3e44229e334750eb68"
+  },
+  "address": {
+    "Carnival_address": "155-054",
+    "coord": [
+      -72.8642349,
+      63.75356
+    ],
+    "street": "Stillwell Avenue",
+    "zipcode": "11224"
+  },
+  "Carnival": "Atlantis",
+  "Occasion": "Rides",
+  "Ride": [
+    {
+      "Ride": "Death_well",
+      "score": 10
+    },
+    {
+      "Ride": "Snake_Slide",
+      "score": 5
+    },
+    {
+      "Ride": "Purple_Tornado",
+      "score": 22
+    },
+    {
+      "Ride": "GLobal_SI-Saw",
+      "score": 100
+    },
+    {
+      "Ride": "Cruise_Battle",
+      "score": 0
+    },
+    {
+      "Ride": "Cave_Abomination",
+      "score": 80
+    },
+    {
+      "Ride": "Cart_race",
+      "score": 36
+    }
+  ],
+  "Name": "Spencer Family",
+  "Family_id": "40356018",
+  "Family_Members": 15,
+  "Time_Entry": {
+    "$date": "2025-06-18T10:45:00.000Z"
+  },
+  "Time_Exit": {
+    "$date": "2025-06-18T18:30:00.000Z"
+  },
+  "Meals": [
+    "Breakfast",
+    "Dinner"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68cbccdd44229e334750eb69"
+  },
+  "address": {
+    "Carnival_address": "155-054",
+    "coord": [
+      75.999936,
+      27.62561986
+    ],
+    "street": "Astoria Boulevard",
+    "zipcode": "11006"
+  },
+  "Carnival": "Rouge_Land",
+  "Occasion": [
+    "Rides",
+    "Concert"
+  ],
+  "Rides": [
+    {
+      "name": "Death_well",
+      "score": 10
+    },
+    {
+      "name": "Flash_plane",
+      "score": 5
+    },
+    {
+      "name": "Green_Tornado",
+      "score": 22
+    },
+    {
+      "name": "Underwater_Aquarium",
+      "score": 100
+    },
+    {
+      "name": "Heli_Battle",
+      "score": 0
+    },
+    {
+      "name": "Joke_war",
+      "score": 80
+    },
+    {
+      "name": "Bugs_Bunny_Race",
+      "score": 46
+    }
+  ],
+  "Concerts": [
+    {
+      "name": "Dance Battle",
+      "score": 55
+    },
+    {
+      "name": "Lonkil Park Performance",
+      "score": 65
+    }
+  ],
+  "Name": "Parkson Family",
+  "Family_id": "49999999",
+  "Family_Members": 15,
+  "Time_Entry": {
+    "$date": "2025-06-18T10:45:00.000Z"
+  },
+  "Time_Exit": {
+    "$date": "2025-06-18T18:30:00.000Z"
+  },
+  "Meals": [
+    "Breakfast",
+    "Dinner"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68cbd53644229e334750eb6a"
+  },
+  "address": {
+    "Carnival_address": "155-054",
+    "coord": [
+      -99.8642349,
+      85.75356
+    ],
+    "street": "Nostrand Avenue",
+    "zipcode": "36005"
+  },
+  "Carnival": "Pisney_Land",
+  "Occasion": "Concert",
+  "Concerts": [
+    {
+      "name": "FolkTales",
+      "score": 10
+    },
+    {
+      "name": "Hamlet",
+      "score": 5
+    },
+    {
+      "name": "Beyonce performance",
+      "score": 22
+    },
+    {
+      "name": "DJ",
+      "score": 100
+    }
+  ],
+  "Name": "Marshall Family",
+  "Family_id": "65324578",
+  "Family_Members": 6,
+  "Time_Entry": {
+    "$date": "2025-05-18T17:45:00.000Z"
+  },
+  "Time_Exit": {
+    "$date": "2025-05-18T23:30:00.000Z"
+  },
+  "Meals": [
+    "Dinner"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68cbd5c544229e334750eb6b"
+  },
+  "address": {
+    "Carnival_address": "155-054",
+    "coord": [
+      -99.8642349,
+      85.75356
+    ],
+    "street": "Nostrand Avenue",
+    "zipcode": "36005"
+  },
+  "Carnival": "Pisney_Land",
+  "Occasion": "Concert",
+  "Concerts": [
+    {
+      "name": "FolkTales",
+      "score": 10
+    },
+    {
+      "name": "Hamlet",
+      "score": 5
+    },
+    {
+      "name": "Beyonce performance",
+      "score": 22
+    },
+    {
+      "name": "Black Metal band performance",
+      "score": 96
+    },
+    {
+      "name": "DJ",
+      "score": 100
+    }
+  ],
+  "Name": "Richard Family",
+  "Family_id": "85296315",
+  "Family_Members": 20,
+  "Time_Entry": {
+    "$date": "2025-05-18T16:45:00.000Z"
+  },
+  "Time_Exit": {
+    "$date": "2025-05-18T00:00:00.000Z"
+  },
+  "Meals": [
+    "lunch",
+    "Dinner"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d90e826329b63fcd91e215"
+  },
+  "address": {
+    "Carnival_address": "206666",
+    "coord": [
+      79.156156,
+      56.18564156
+    ],
+    "street": "Salt Road",
+    "zipcode": "200000"
+  },
+  "Carnival": "Lion Kingdom",
+  "Occasion": "Concert",
+  "Concerts": [
+    {
+      "name": "Rainbow Slide",
+      "score": 26
+    },
+    {
+      "name": "Jumping Jugs",
+      "score": 63
+    },
+    {
+      "name": "Space Ride",
+      "score": 1
+    },
+    {
+      "name": "Hot Walk",
+      "score": 36
+    }
+  ],
+  "Name": "Christopher family",
+  "Family_id": "65161659",
+  "Family_Members": 3,
+  "Time_Entry": {
+    "$date": "2025-05-31T12:30:00.000Z"
+  },
+  "Time_Exit": {
+    "$date": "2025-06-01T12:30:00.000Z"
+  },
+  "Meals": [
+    "Lunch",
+    " dinner",
+    " lunch"
+  ]
+}]
